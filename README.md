@@ -1,6 +1,8 @@
 # Hola gente de Aluxion!
 
-Esto es lo que puedo hacer en 10hs de codeo no pude aprovechar el tiempo al maximo ya que tuve imprevistos, mil disculpas pero me esforce para llegar a entregar algo. Desde ya gracias por la oprtunidad!.
+Esto es lo que puedo hacer en 10hs de codeo no pude aprovechar el tiempo al maximo ya que tuve imprevistos, mil disculpas pero me esforce para llegar a entregar algo,
+Pese a mi poca experiencia en react native estoy conforme con lo realizado.
+Desde ya gracias por la oprtunidad!.
 
 
 # Porque no use redux
